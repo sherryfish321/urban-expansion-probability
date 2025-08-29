@@ -13,12 +13,12 @@ It aligns with research assistantship requirements in geospatial modeling and bi
 ## 📂 Project Structure
 
 urban-expansion-probability/
-├── data/ # Source data (not included, see Data Sources below)
-├── notebooks/ # Jupyter/Colab notebooks
-├── results/ # Model outputs and maps
-├── geoproject.py # (Optional) Python script version
-├── requirements.txt # Dependencies
-└── README.md
+- data/ # Source data (not included, see Data Sources below)
+- notebooks/ # Jupyter/Colab notebooks
+- results/ # Model outputs and maps
+- geoproject.py # (Optional) Python script version
+- requirements.txt # Dependencies
+- README.md
 
 ---
 
