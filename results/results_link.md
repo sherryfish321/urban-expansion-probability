@@ -1,7 +1,7 @@
 ## 📊 Results
 
 - Demo interactive map (safe for GitHub): [results/risk_map_demo.html](https://github.com/sherryfish321/urban-expansion-probability/blob/2e0f2c47589c552213e07ef319d5a80dd232310b/results/risk_map_demo.html)  
-- Full interactive map (Google Drive): [Download here](https://drive.google.com/your-link](https://drive.google.com/file/d/1MBShJFRBmmQlr037uxh39WaFsGBU6Y6F/view?usp=sharing)
+- Full interactive map (Google Drive): [Download here](https://drive.google.com/file/d/1MBShJFRBmmQlr037uxh39WaFsGBU6Y6F/view?usp=drive_link)
 
 - Sample predictions CSV (safe for GitHub): [results/predictions_points_sample.csv](https://github.com/sherryfish321/urban-expansion-probability/blob/2e0f2c47589c552213e07ef319d5a80dd232310b/results/predictions_points_sample.csv)  
 - Full predictions CSV (compressed, Google Drive): [Download here](https://drive.google.com/file/d/1nCbf6BV8uH6mx6Eky4PdEHXzjF-DsnRP/view?usp=sharing)  
